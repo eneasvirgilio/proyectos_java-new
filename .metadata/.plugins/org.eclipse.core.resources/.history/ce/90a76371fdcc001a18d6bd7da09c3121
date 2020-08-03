@@ -1,0 +1,11 @@
+
+public class manipulacion_cadena_III {
+
+	public static void main(String[] args) {
+		String persona1="Alejandro";
+		String persona2="Alejandro";
+		System.out.println(persona1.equals(persona2));
+
+	}
+
+}
